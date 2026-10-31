@@ -427,3 +427,21 @@
     .hero{padding-top:24px}
     .hero-img{aspect-ratio:16/9}
   }
+
+/* Utility classes extracted from former inline styles in index.html */
+.inl-01 { font-size:1.1rem; }
+.inl-02 { padding-top:72px; }
+.inl-03 { font-size:1.5rem; }
+.inl-04 { margin-top:20px; color:var(--muted); font-size:.9rem; }
+.inl-05 { padding-top:20px; }
+.inl-06 { padding-top:10px; }
+.inl-07 { color:var(--gold-2); }
+.inl-08 { padding-top:16px; }
+.inl-09 { width:100%; justify-content:center; }
+.inl-10 { color:var(--gold); }
+.inl-11 { margin:0 auto 14px; font-weight:800; color:var(--ink); }
+.inl-12 { margin-bottom:28px; }
+.inl-13 { padding:16px 30px; font-size:1rem; }
+.inl-14 { text-decoration:none; }
+.inl-15 { background:var(--gold); color:#2B1D17; }
+.inl-16 { margin-top:18px; }
